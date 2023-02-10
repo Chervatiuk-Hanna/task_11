@@ -1,0 +1,13 @@
+.img{
+    background-size: cover;
+    width: 1250px;
+    height: 900px;
+    background: url(../img/1655669563_1-pibig-info-p-skoro-zima-kartinki-krasivo-1.jpg);
+    background-size: cover;
+}
+.snowman{
+    width: 700px;
+    height: 400px;
+    background: url(../img/snowman.jpg);
+    background-size: cover;
+}
